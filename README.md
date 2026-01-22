@@ -29,7 +29,7 @@ I am an entry-level Full-Stack Developer with a strong background in delivering 
 ---
 
 ## 📁 Visual Portfolio
-🔗 **(Check out my [Live Portfolio](https://Stefen9202.github.io) for videos and photos!)**
+🔗 **Check out my [Live Portfolio](https://Stefen9202.github.io) for project details!**
 
 * **CV Lulus:** Full-scale web development project featuring dashboard design and template management.
 * **Issa Visa Assistant:** Exploring automated documentation and data solutions.
