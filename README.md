@@ -5,7 +5,7 @@ I am an entry-level Full-Stack Developer with a strong background in delivering 
 
 ---
 
- 💼 Professional Experience
+## 💼 Professional Experience
 **IT Support & Web Developer (Intern)** | *PT PCBA Semiconductor International*
 *Aug 2025 – Nov 2025*
 * **Core Contribution:** Designed and coded major UI/UX components for the **CV Lulus** website, including the Homepage, Dashboard, and Template Selection.
