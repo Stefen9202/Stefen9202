@@ -1,7 +1,7 @@
 # Hi there, I'm Lin Nay Wun (Stefen)! 👋
 
 ### 🎓 Fresh Graduate | Aspiring Full-Stack Developer
-I am an entry-level Full-Stack Developer with a strong background in delivering user-centric applications. Recently graduated from **Rangsit University** (GPA: 3.54), I am driven to integrate new technologies across web development, UI/UX, and data fields.
+I am an entry-level Full-Stack Developer and recent graduate from Rangsit University (GPA: 3.54). With a strong foundation in UI/UX and Front-End Web Development, I am passionate about creating user-centric applications and expanding my backend proficiency. I am driven to contribute value in cross-functional environments including Data, Security, and AI.
 
 ---
 
@@ -21,10 +21,11 @@ I am an entry-level Full-Stack Developer with a strong background in delivering 
 ## 🛠️ Technical Toolbox
 | Category | Skills |
 | :--- | :--- |
-| **Development** | JavaScript, TypeScript, Python, HTML/CSS, React, Next.js, C# |
-| **Design & UI** | UI/UX Design, Figma, Canva, Responsive Web Design |
-| **Tools & Platforms** | Git, GitHub, VS Code, Postman, Vercel, Railway |
-| **Data & Systems** | SQL (MySQL), Supabase, REST APIs, Basic Networking (TCP/IP) |
+| **Programming / Scripting** | Python (basic), Java (basic), JavaScript (basic), TypeScript (basic), HTML & CSS, SQL (basic queries), C#, Dart |
+| **Web & App Development** | React / Next.js (basic), Tailwind CSS / Bootstrap (basic), REST APIs (basic understanding), Responsive Web Design, UI/UX Design |
+| **Tools & Platforms** | Git, GitHub, VS Code, Postman, Vercel, Railway, Figma, Canva |
+| **Networking & Systems** | Basic networking (IP addressing, subnetting, VLAN), TCP/IP fundamentals |
+| **Database** | MySQL, Supabase (basic) |
 
 ---
 
