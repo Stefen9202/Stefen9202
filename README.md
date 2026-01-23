@@ -1,7 +1,7 @@
 # Hi there, I'm Lin Nay Wun (Stefen)! 👋
 
 ### 🎓 Fresh Graduate | Aspiring Full-Stack Developer
-I am an entry-level Full-Stack Developer and recent graduate from Rangsit University (GPA: 3.54). With a strong foundation in UI/UX and Front-End Web Development, I am passionate about creating user-centric applications and expanding my backend proficiency. I am driven to contribute value in cross-functional environments including Data, Security, and AI.
+I am an entry-level Full-Stack Developer and recent graduate from Rangsit University (GPA: 3.52). With a strong foundation in UI/UX and Front-End Web Development, I am passionate about creating user-centric applications and expanding my backend proficiency. I am driven to contribute value in cross-functional environments including Data, Security, and AI.
 
 ---
 
