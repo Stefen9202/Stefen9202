@@ -21,8 +21,8 @@ I am an entry-level Full-Stack Developer and recent graduate from Rangsit Univer
 ## 🛠️ Technical Toolbox
 | Category | Skills |
 | :--- | :--- |
-| **Programming / Scripting** | Python (basic), Java (basic), JavaScript (basic), TypeScript (basic), HTML & CSS, SQL (basic queries), C#, Dart |
-| **Web & App Development** | React / Next.js (basic), Tailwind CSS / Bootstrap (basic), REST APIs (basic understanding), Responsive Web Design, UI/UX Design |
+| **Programming / Scripting** | Python (basic), Java (basic), JavaScript (basic), TypeScript (basic), HTML & CSS, SQL (basic queries), C# (basic), Dart |
+| **Web & App Development** | React / Next.js, Tailwind CSS / Bootstrap (basic), REST APIs (basic understanding), Responsive Web Design, UI/UX Design |
 | **Tools & Platforms** | Git, GitHub, VS Code, Postman, Vercel, Railway, Figma, Canva |
 | **Networking & Systems** | Basic networking (IP addressing, subnetting, VLAN), TCP/IP fundamentals |
 | **Database** | MySQL, Supabase (basic) |
