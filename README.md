@@ -30,10 +30,11 @@ I am an entry-level Full-Stack Developer and recent graduate from Rangsit Univer
 ---
 
 ## 📁 Visual Portfolio
-🔗 **Check out my [Live Portfolio](https://Stefen9202.github.io) for more project !**
 
 * **CV Lulus:** Full-scale web development project featuring dashboard design and template management.
 * **Issa Visa Assistant:** Exploring automated documentation and data solutions.
+
+* 🔗 **Check out my [Live Portfolio](https://Stefen9202.github.io) for more project !**
 
 ---
 
