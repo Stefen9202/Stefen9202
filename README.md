@@ -41,5 +41,5 @@ I am an entry-level Full-Stack Developer and recent graduate from Rangsit Univer
 ## 📫 Let's Connect!
 * 📍 Bangkok, Thailand
 * 💼 [LinkedIn](https://www.linkedin.com/in/lin-nay-wun/)
-* ✉️ Email: linnaywun92@gmail.com
+* ✉️ **Email**: linnaywun92@gmail.com
 * 📞 **Phone:** [+66 986493727](tel:+66986493727)
